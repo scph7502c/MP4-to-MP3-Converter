@@ -4,7 +4,7 @@ A simple Python script that converts an MP4 video file into an MP3 audio file us
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 - Python 3.8+
 - `pydub` library
