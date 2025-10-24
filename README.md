@@ -40,12 +40,15 @@ Run the script from your terminal:
 python convert.py input.mp4 output.mp3
 
 Example
+```bash
 python convert.py lecture.mp4 lecture_audio.mp3
-
+```
 
 If the input file exists and conversion succeeds, the script will display:
 
+```bash
 Conversion successful: lecture_audio.mp3
+```
 
 
 If any error occurs, it will print the error message and exit with code 1.
